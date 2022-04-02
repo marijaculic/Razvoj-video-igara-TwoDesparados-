@@ -1,2 +1,2 @@
-# Razvoj video igara u C-u
+# Razvoj video igara u C#-u
  
